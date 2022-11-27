@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: கம்பன்.விக்கி பற்றி...
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+கம்பன்.விக்கி வலைதளம் கவிச்சக்கரவர்த்தி கம்பன் இயற்றிய இராமகாதை பற்றிய கலைப்பெட்டகமாக அமைய திருவருள் துணையாகட்டும்.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+கம்பனமைத்த காவியம், அந்நூலுக்கு நம்மவர்கள் கண்ட உரை, இலக்கண அணிகள், இலக்கியச் சுவை, பிற்கால திறனாய்வாளர்களுடைய இரசனை, அந்நூலில் பொதிந்து கிடக்கும் நம்மினத்தினுடைய மரபுகள் எனக் கம்பனைத் தழுவி நிற்கும் தலைப்புகளில் கட்டுரைகளையும், கவிதைகளையும் பிரசுரிக்க முயல்வோம்.  
 
 
-[jekyll-organization]: https://github.com/jekyll
+தமிழ் இனத்தினுடைய வரலாறு, மற்றும் அரசியல் பற்றிய கட்டுரைகளும் துணுக்குகளும் அவ்வப்போது பிரசுரிக்கப்படும்.
+
+கம்பன் வாழ்க!    வாழ்க! வாழ்க!
+கம்பன் புகழ் வாழ்க! வாழ்க! வாழ்க!
